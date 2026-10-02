@@ -26,7 +26,7 @@ document.addEventListener("DOMContentLoaded", () => {
       "TEL;TYPE=CELL:+79258408433",
       "EMAIL:r.zacepina@arcoengi.ru",
       "ADR;TYPE=WORK:;;Рязанский проспект, д. 10 с18;Москва;;;Россия",
-      "URL:https://arcoengi.ru",
+      "URL:https://t.me/arcoengi",
       "END:VCARD"
     ].join("\\r\\n");
 
